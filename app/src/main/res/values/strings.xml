@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">IvanPR-VictorMOH app</string>
+    <string name="games">Games</string>
+    <string name="bContinuar">Continue</string>
+    <string name="chooseOption">Choose option:</string>
+    <string name="bBack">Back</string>
+    <string name="fav">Favourites</string>
+    <string name="cat">Choose category:</string>
+    <string-array name="catSpinnerMusica">
+        <item>Rock</item>
+        <item>Rap</item>
+        <item>Pop</item>
+        <item>Electrónica</item>
+    </string-array>
+    <string-array name="listItemsMusicaRock">
+        <item>Red Hot Chili Peppers</item>
+        <item>AC/DC</item>
+        <item>Kiss</item>
+        <item>Muse</item>
+    </string-array>
+    <string-array name="catSpinnerPelicula">
+        <item>TODAVIA NADA</item>
+    </string-array>
+    <string-array name="catSpinnerSerie">
+        <item>TODAVIA NADA</item>
+    </string-array>
+    <string-array name="catSpinnerJuego">
+        <item>TODAVIA NADA</item>
+    </string-array>
+    <string name="music">Music</string>
+    <string name="films">Films</string>
+    <string name="series">Series</string>
+    <string name="action_settings">Settings</string>
+</resources>
+
